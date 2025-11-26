@@ -7,8 +7,15 @@ I am highly passionate about my career and the role I undertake. I always strive
 - 12th : From MDDM College,Muzaffarpur, Bihar
 - 10th: From Chapman Girl's High School, Muzaffarpur, Bihar
 
-##
-Here are some ideas to get you started:
+## Skills
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- PHP
+- SQL
+- Frontend Development
 
-- 🔭 I’m currently looking for job as a fresher ...
-- 🌱 I’m currently learning DSA ...
+## Current Status
+- 🔭 I’m currently looking for job as a fresher.
+- 🌱 I’m currently learning DSA.
